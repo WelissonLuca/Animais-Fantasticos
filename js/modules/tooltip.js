@@ -40,3 +40,4 @@ export default function initTooltip() {
     item.addEventListener('mouseover', onMouseOver);
   });
 }
+
